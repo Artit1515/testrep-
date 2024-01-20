@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+
+# NPM
+package-lock.json
+
+# Express.js
+*.log
+npm-debug.log*
+.pnp/
+pnp.js
+.pnp.js
+
+# Nodemon
+nodemon-debug.log
